@@ -20,6 +20,10 @@ yarn-error.log*
 # ---- Databases ----
 *.sqlite
 *.sqlite3
+cognitask.db
+
+# ---- Streamlit ----
+.streamlit/secrets.toml
 
 # ---- Editor & tooling ----
 .vscode/
